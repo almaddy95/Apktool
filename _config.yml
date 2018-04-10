@@ -4,3 +4,4 @@ url: https://ibotpeaches.github.io
 
 plugins:
   - jekyll-sitemap
+theme: jekyll-theme-hacker
